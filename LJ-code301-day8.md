@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 8
+
+Today I learned about SQL and Postgres. The lab was mostly about installing a Postgres package and connecting to the database. Then we reviewed various functions in the code and commented on how they related to the full-stack diagram, methods from article.js, and CRUD. I found this helpful because it painted a clearer picture of what was going on. As for the actual SQL commands, I'm still iffy on them. Like, I could tell you what they do if I see them in existing code, but at the moment I don't think I could type them up from scratch. Thankfully we have a part 2 tomorrow, so hopefully I'll understand them better.
