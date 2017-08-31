@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 13
+
+Today I learned about using Heroku to deploy a site and using middleware as a proxy. I also learned a bit about the general deployment of sites in general. Heroku seems like a great staging environment, and it's cool how you can customize your own url. My partner for the lab was Vitaliy, and it took longer than expected because of the missing stuff in the starter code. When we added everything, it still wasn't working, so we just nuked everything and started over. We added the missing stuff immediately after cloning, then did everything else the same and it worked. No idea what was messed up before, but I'm not complaining!
